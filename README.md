@@ -4,7 +4,7 @@
 
 **Mechatronics Engineer | Robotics & Biomedical Engineering Researcher**
 
-I am a Mechatronics Engineer from the Peruvian University of Applied Sciences (UPC) with a robust background in robotics, AI, and biomedical engineering. I develop research driven, practical solutions to deal real world challenges in healthcare and automation always questioning the status quo to drive innovation.
+I’m a Mechatronics Engineer from the Peruvian University of Applied Sciences (UPC) with a solid background in robotics, AI, and biomedical engineering. I build research-driven solutions to tackle real-world challenges—always pushing technical boundaries and questioning established norms.
 
 ---
 
@@ -32,11 +32,19 @@ I am a Mechatronics Engineer from the Peruvian University of Applied Sciences (U
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jgodiel96&show_icons=true&theme=radical)](https://github.com/jgodiel96)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgodiel96&layout=compact&theme=radical)](https://github.com/jgodiel96)
 
 ---
 
-## 📌 Pinned Projects
+## 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jgodiel96&theme=onedark)](https://github.com/jgodiel96)
+
+---
+
+## 🚀 Pinned Projects
 
 Take a look at my pinned repositories to explore my latest projects and contributions.
 
@@ -44,16 +52,22 @@ Take a look at my pinned repositories to explore my latest projects and contribu
 
 ## 📝 Publications & Presentations
 
-I’ve authored technical articles and presented at international conferences on topics ranging from industrial automation to advanced biomedical applications.  
+I have authored technical articles and presented at international conferences on topics ranging from industrial automation to biomedical innovations.  
 [See my publications](#)
 
 ---
 
-## 📫 Get In Touch
+## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/jorge-ronaldo-godiel-galvez-237000141)
-- Email: [jgodiel96@gmail.com](mailto:jgodiel96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-ronaldo-godiel-galvez-237000141)  
+[![Email](https://img.shields.io/badge/Email-jgodiel96@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jgodiel96@gmail.com)
 
 ---
 
-I build solutions that confront technical challenges head-on. If you’re interested in collaborating or want to learn more about my work, feel free to reach out.
+## 📈 Visitors
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jgodiel96.jgodiel96)
+
+---
+
+I develop solutions that confront technical challenges head-on. If you're interested in collaborating or learning more about my work, feel free to reach out!
