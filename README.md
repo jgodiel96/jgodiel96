@@ -4,7 +4,7 @@
 
 **Mechatronics Engineer | Robotics & Biomedical Engineering Researcher**
 
-I’m a Mechatronics Engineer from the Peruvian University of Applied Sciences (UPC) with a solid background in robotics, AI, and biomedical engineering. I build research-driven solutions to tackle real-world challenges—always pushing technical boundaries and questioning established norms.
+I’m a Mechatronics Engineer from the Peruvian University of Applied Sciences (UPC) with a solid background in robotics, AI, and biomedical engineering. I build research-driven solutions to solve real-world challenges—always pushing technical boundaries and questioning established norms.
 
 ---
 
@@ -32,15 +32,15 @@ I’m a Mechatronics Engineer from the Peruvian University of Applied Sciences (
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jgodiel96&show_icons=true&theme=radical)](https://github.com/jgodiel96)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgodiel96&layout=compact&theme=radical)](https://github.com/jgodiel96)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jgodiel96&theme=onedark)](https://github.com/jgodiel96)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/yourusername)
 
 ---
 
@@ -59,14 +59,14 @@ I have authored technical articles and presented at international conferences on
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-ronaldo-godiel-galvez-237000141)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-ronaldo-godiel-galvez-237000141)
 [![Email](https://img.shields.io/badge/Email-jgodiel96@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jgodiel96@gmail.com)
 
 ---
 
 ## 📈 Visitors
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jgodiel96.jgodiel96)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
 
 ---
 
