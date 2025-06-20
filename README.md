@@ -2,7 +2,7 @@
 
 **Mechatronics Engineer | Robotics & Biomedical Engineering Researcher**
 
-I’m a Mechatronics Engineer from the Peruvian University of Applied Sciences (UPC) with a solid background in robotics, AI, and biomedical engineering. I build research-driven solutions to solve real-world challenges—always pushing technical boundaries and questioning established norms.
+I’m a Mechatronics Engineer from the Peruvian University of Applied Sciences (UPC) with a solid background in robotics, AI, and biomedical engineering. I build research driven solutions to solve real world challenges always pushing technical boundaries and questioning established norms.
 
 ---
 
