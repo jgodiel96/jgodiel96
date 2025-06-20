@@ -1,5 +1,3 @@
-![Banner](https://your-image-link.com/banner.jpg)
-
 # Jorge Ronaldo Godiel Galvez
 
 **Mechatronics Engineer | Robotics & Biomedical Engineering Researcher**
@@ -29,27 +27,6 @@ I’m a Mechatronics Engineer from the Peruvian University of Applied Sciences (
 - Git & GitHub, VS Code, Docker, LaTeX, Agile & Scrum
 
 ---
-
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
-
----
-
-## 🏆 GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/yourusername)
-
----
-
-## 🚀 Pinned Projects
-
-Take a look at my pinned repositories to explore my latest projects and contributions.
-
----
-
 ## 📝 Publications & Presentations
 
 I have authored technical articles and presented at international conferences on topics ranging from industrial automation to biomedical innovations.  
