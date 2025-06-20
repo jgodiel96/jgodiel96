@@ -29,8 +29,17 @@ I’m a Mechatronics Engineer from the Peruvian University of Applied Sciences (
 ---
 ## 📝 Publications & Presentations
 
-I have authored technical articles and presented at international conferences on topics ranging from industrial automation to biomedical innovations.  
-[See my publications](#)
+## 📝 Publications & Talks
+
+- **Godiel, J., Poma, L., Vinces, L., Oliden, J., & Vargas, D. (2024).**  
+  *A Prototype Development of an Autonomous Robot for the Inspection of Suspension Spring Profiles in Toyota Hilux Pickups*.  
+  In Y. Iano, O. Saotome, G. L. Kemper Vásquez, M. T. de Moraes Gomes Rosa, R. Arthur, & G. G. de Oliveira (Eds.), _Proceedings of the 9th Brazilian Technology Symposium (BTSym’23)_ (pp. 241–252). Springer, Cham.  
+  DOI: [10.1007/978-3-031-66961-3_22](https://doi.org/10.1007/978-3-031-66961-3_22)
+
+- **“Application of CAE tools in the industry”** – CITE Energía (2021) · [PDF](http://www.citeenergia.com.pe/wp-content/uploads/2022/02/ARTICULO-FEBR-2022-1.pdf)  
+- **“The growing demand for lithium batteries”** – CITE Energía (2022) · [PDF](http://www.citeenergia.com.pe/wp-content/uploads/2022/02/Creciente-demanda-de-las-baterias-de-litio.pdf)  
+- **“PLCs in the electrical industry”** – CITE Energía (2022) · [PDF](http://www.citeenergia.com.pe/wp-content/uploads/2022/04/ARTICULO-5.pdf)  
+
 
 ---
 
