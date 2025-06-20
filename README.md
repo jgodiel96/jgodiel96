@@ -36,9 +36,9 @@ I’m a Mechatronics Engineer from the Peruvian University of Applied Sciences (
    DOI: [10.1007/978-3-031-66961-3_22](https://doi.org/10.1007/978-3-031-66961-3_22)
 
  Technical Paper
-- **“Application of CAE tools in the industry”** – CITE Energía (2021) · [PDF](http://www.citeenergia.com.pe/wp-content/uploads/2022/02/ARTICULO-FEBR-2022-1.pdf)  
-- **“The growing demand for lithium batteries”** – CITE Energía (2022) · [PDF](http://www.citeenergia.com.pe/wp-content/uploads/2022/02/Creciente-demanda-de-las-baterias-de-litio.pdf)  
-- **“PLCs in the electrical industry”** – CITE Energía (2022) · [PDF](http://www.citeenergia.com.pe/wp-content/uploads/2022/04/ARTICULO-5.pdf)  
+ - **“Application of CAE tools in the industry”** – CITE Energía (2021) · [PDF](http://www.citeenergia.com.pe/wp-content/uploads/2022/02/ARTICULO-FEBR-2022-1.pdf)  
+ - **“The growing demand for lithium batteries”** – CITE Energía (2022) · [PDF](http://www.citeenergia.com.pe/wp-content/uploads/2022/02/Creciente-demanda-de-las-baterias-de-litio.pdf)  
+ - **“PLCs in the electrical industry”** – CITE Energía (2022) · [PDF](http://www.citeenergia.com.pe/wp-content/uploads/2022/04/ARTICULO-5.pdf)  
 
 ---
 
