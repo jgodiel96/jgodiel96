@@ -36,14 +36,8 @@ I have authored technical articles and presented at international conferences on
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-ronaldo-godiel-galvez-237000141)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-ronaldo-godiel-galvez)
 [![Email](https://img.shields.io/badge/Email-jgodiel96@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jgodiel96@gmail.com)
-
----
-
-## 📈 Visitors
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
 
 ---
 
