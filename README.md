@@ -18,7 +18,7 @@ I’m a Mechatronics Engineer from the Peruvian University of Applied Sciences (
 - Arduino, Raspberry Pi, PLC Programming
 
 **Data Science & Machine Learning:**
-- Pandas, NumPy, Matplotlib, Scikit-learn, OpenCV, SQL
+- Pandas, NumPy, Matplotlib, Scikit-learn, OpenCV, SQL, KNN,SVM
 
 **CAD & 3D Design:**
 - Autodesk Inventor, SolidWorks, AutoCAD, 3D Printing
